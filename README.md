@@ -1,16 +1,47 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Sebas%20Villar&fontSize=35&fontColor=ffffff)
 
-<!--
-**Sebastian609/Sebastian609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Acerca de mí
 
-Here are some ideas to get you started:
+Soy **Sebastián Villar**, estudiante de Ingeniería de Sistemas y desarrollador fullstack freelance desde Arequipa, Perú 🇵🇪.  
+Apasionado por crear soluciones escalables, integraciones IoT y sistemas con impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Tecnologías y herramientas
+
+- 🧠 Backend: `Laravel`, `Livewire`, `PHP`, `Java (Spring Boot)`
+- 🌐 Frontend: `Blade`, `TailwindCSS`, `Next.js`
+- 🗃️ Base de datos: `MySQL`, `MariaDB`
+- 📡 IoT: `ESP8266`, `DHT11`, `MQTT`
+- 🐳 Contenedores: `Docker`
+- 🔐 APIs y automatización
+
+---
+
+### 🔥 Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebastian609&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian609&layout=compact&theme=tokyonight" height="160"/>
+</div>
+
+---
+
+### 🧪 Proyectos destacados
+
+- 🎓 **Sistema de Pago de Matrículas** – Laravel + Izipay
+- 📦 **Control de Stock con Livewire**
+- 🌡️ **IoT: Sensor DHT11 + ESP8266** – API para temperatura y humedad
+- 🎮 **Juego Educativo VR** – Continuidad de negocio para Meta Quest
+
+---
+
+### 📫 Contacto
+
+- ✉️ Correo: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+- 💼 LinkedIn: [linkedin.com/in/sebastian-villar](https://linkedin.com/in/sebastian-villar)
+- 🌐 Portafolio: [https://tusitio.dev](https://tusitio.dev)
+
+---
+
+⭐ ¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes ideas, contáctame.
