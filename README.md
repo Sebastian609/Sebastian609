@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Sebas%20Villar&fontSize=35&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Sebastian%20Villar&fontSize=35&fontColor=ffffff)
 
 ### 👨‍💻 Acerca de mí
 
@@ -38,9 +38,8 @@ Apasionado por crear soluciones escalables, integraciones IoT y sistemas con imp
 
 ### 📫 Contacto
 
-- ✉️ Correo: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
-- 💼 LinkedIn: [linkedin.com/in/sebastian-villar](https://linkedin.com/in/sebastian-villar)
-- 🌐 Portafolio: [https://tusitio.dev](https://tusitio.dev)
+- ✉️ Correo: [sebavillar2110@gmaiñ.com](mailto:sebavillar2110@gmaiñ.com)
+- 🌐 Portafolio: [https://sillarsegura.site](https://svillarsegura.site)
 
 ---
 
