@@ -29,17 +29,15 @@ Apasionado por crear soluciones escalables, integraciones IoT y sistemas con imp
 
 ### 🧪 Proyectos destacados
 
-- 🎓 **Sistema de Pago de Matrículas** – Laravel + Izipay
-- 📦 **Control de Stock con Livewire**
-- 🌡️ **IoT: Sensor DHT11 + ESP8266** – API para temperatura y humedad
-- 🎮 **Juego Educativo VR** – Continuidad de negocio para Meta Quest
+- 📦 **Flow Shop** – Sistema de ventas completo con Laravel  
+  [🔗 Ver repositorio](https://github.com/Sebastian609/FLOW-SHOP)
 
 ---
 
 ### 📫 Contacto
 
-- ✉️ Correo: [sebavillar2110@gmaiñ.com](mailto:sebavillar2110@gmaiñ.com)
-- 🌐 Portafolio: [https://sillarsegura.site](https://svillarsegura.site)
+- ✉️ Correo: [sebavillar2110@gmail.com](mailto:sebavillar2110@gmail.com)
+- 🌐 Portafolio: [svillarsegura.site](https://svillarsegura.site)
 
 ---
 
