@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Acerca de mí
 
-Soy **Sebastián Villar**, estudiante de Ingeniería de Sistemas y desarrollador fullstack freelance desde Arequipa, Perú 🇵🇪.  
+Soy **Sebastián Villar**, Bachiller de Ing. de Sistemas e Informatica, desarrollador fullstack desde Arequipa, Perú 🇵🇪.  
 Apasionado por crear soluciones escalables, integraciones IoT y sistemas con impacto real.
 
 ---
