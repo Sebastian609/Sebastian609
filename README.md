@@ -39,21 +39,6 @@ I specialize in building scalable backend architectures, robust APIs, and high-p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian609&layout=compact&theme=tokyonight" height="160"/>
 </div>
 
----
-
-## 🧪 Featured Projects
-
-> ### 🚀 [Project Name]
-> **A scalable backend service built to handle [briefly mention what it solves/does].**
-> * Implemented a RESTful API with strict architecture patterns.
-> * Optimized database queries and containerized the application for seamless deployment.
-> 
-> `NestJS` `TypeScript` `Java` `PostgreSQL` `Docker`
-> 
-> [💻 View Repository](https://github.com/Sebastian609/)
-
----
-
 ## 📫 Connect with Me
 
 * ✉️ **Email:** [sebavillar2110@gmail.com](mailto:sebavillar2110@gmail.com)
