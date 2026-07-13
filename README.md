@@ -1,24 +1,38 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Sebastian%20Villar&fontSize=35&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&theme=tokyonight&height=200&section=header&text=Hi,%20I'm%20Sebastian%20Villar&fontSize=35&fontColor=ffffff)
 
-### 👨‍💻 Acerca de mí
+## 👨‍💻 About Me
 
-Soy **Sebastián Villar**, Bachiller de Ing. de Sistemas e Informatica, desarrollador fullstack desde Arequipa, Perú 🇵🇪.  
-Apasionado por crear soluciones escalables, integraciones IoT y sistemas con impacto real.
+I'm **Sebastian Villar**, a Software Engineering graduate and Full-Stack Developer based in Arequipa, Peru 🇵🇪.  
 
----
-
-### ⚙️ Tecnologías y herramientas
-
-- 🧠 Backend: `Laravel`, `Livewire`, `PHP`, `Java (Spring Boot)`
-- 🌐 Frontend: `Blade`, `TailwindCSS`, `Next.js`
-- 🗃️ Base de datos: `MySQL`, `MariaDB`
-- 📡 IoT: `ESP8266`, `DHT11`, `MQTT`
-- 🐳 Contenedores: `Docker`
-- 🔐 APIs y automatización
+I specialize in building scalable backend architectures, robust APIs, and high-performance systems. Currently, my core focus is developing modern enterprise and server-side solutions within the **Java** and **Node.js / NestJS** ecosystems, alongside DevOps automation and IoT integrations.
 
 ---
 
-### 🔥 Estadísticas
+## ⚙️ Tech Stack & Tools
+
+### 🧠 Backend & Core
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗃️ Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌐 Frontend & IoT
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-3C525C?style=for-the-badge&logo=mqtt&logoColor=white)
+
+---
+
+## 🔥 GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sebastian609&show_icons=true&theme=tokyonight" height="160"/>
@@ -27,18 +41,25 @@ Apasionado por crear soluciones escalables, integraciones IoT y sistemas con imp
 
 ---
 
-### 🧪 Proyectos destacados
+## 🧪 Featured Projects
 
-- 📦 **Flow Shop** – Sistema de ventas completo con Laravel  
-  [🔗 Ver repositorio](https://github.com/Sebastian609/FLOW-SHOP)
+> ### 🚀 [Project Name]
+> **A scalable backend service built to handle [briefly mention what it solves/does].**
+> * Implemented a RESTful API with strict architecture patterns.
+> * Optimized database queries and containerized the application for seamless deployment.
+> 
+> `NestJS` `TypeScript` `Java` `PostgreSQL` `Docker`
+> 
+> [💻 View Repository](https://github.com/Sebastian609/)
 
 ---
 
-### 📫 Contacto
+## 📫 Connect with Me
 
-- ✉️ Correo: [sebavillar2110@gmail.com](mailto:sebavillar2110@gmail.com)
-- 🌐 Portafolio: [svillarsegura.site](https://svillarsegura.site)
+* ✉️ **Email:** [sebavillar2110@gmail.com](mailto:sebavillar2110@gmail.com)
+* 🌐 **Portfolio:** [svillarsegura.site](https://svillarsegura.site)
 
 ---
-
-⭐ ¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes ideas, contáctame.
+<div align="center">
+  Thanks for stopping by! Drop me an email if you'd like to collaborate on backend or architecture projects.
+</div>
